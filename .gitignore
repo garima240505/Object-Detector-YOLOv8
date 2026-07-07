@@ -9,6 +9,6 @@ venv/
 .idea/
 .vscode/
 
-output/
+
 
 .DS_Store
